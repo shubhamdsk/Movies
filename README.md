@@ -84,3 +84,12 @@ We welcome contributions! If you have an idea for a feature, bug fix, or improve
 - Users now need to create the `.env` file in the root of the project and replace `your_api_key_here` with their actual TMDb API key.
 
 This should provide all the necessary information for users to properly set up and run your app!
+
+### Snapshots
+![Image](https://github.com/user-attachments/assets/d9ecc268-bb0a-47b6-9053-745135dfb7c2)
+
+![Image](https://github.com/user-attachments/assets/80d19078-6135-4109-a85f-5f0cdcb50773)
+
+![Image](https://github.com/user-attachments/assets/2b9e9b63-6338-408f-a39e-fa71ddceb755)
+
+![Image](https://github.com/user-attachments/assets/833bb2dc-9ef1-4fa1-998a-cb821465816a)
